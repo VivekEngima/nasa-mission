@@ -1,5 +1,7 @@
 # NASA Mission Control Project
 
+This webiste is hosted on AWS server on link: http://43.204.145.5:8000/launches
+
 ## Getting Started
 
 1. Ensure you have Node.js installed.
